@@ -1,0 +1,11 @@
+﻿  Задание 1.cpp
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(7,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(8,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(9,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(10,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(12,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(13,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(14,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(15,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Даниил\Documents\с++\Задание 1\Задание 1\Задание 1.cpp(16,20): warning C4305: инициализация: усечение из "double" в "float"
+  Задание 1.vcxproj -> C:\Users\Даниил\Documents\с++\Задание 1\Debug\Задание 1.exe
